@@ -1,2 +1,2 @@
 # Zoom-Attendance
-It is a program to take attendance using screenshot
+The goal of this project is to develop a system that can automatically capture the participant list on Zoom meetings and use optical character recognition (OCR) technology to extract the names of the participants. This system will use Tesseract OCR to read the names from the screenshots and save them to an Excel file for easy access and organization. By automating this process, the system can save time and effort for individuals and organizations who need to track attendance on Zoom meetings.
